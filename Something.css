@@ -1,0 +1,82 @@
+body{
+    font-family: 'Oxygen', sans-serif ;
+background-color: lightgrey;
+}
+h2,p,.readme-wrapper{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: red;
+    
+}
+a:hover{
+    color: blue;
+    font-weight: bold;
+}
+.box1,.box2,.box3,.box4{
+    display:block;
+    margin:1px ;
+    padding: 1px;
+    border:solid red;
+    border-radius: 30em;
+    width: 30em;
+}
+
+.unique{
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background-color: lightblue;
+    position: relative;
+    left: 8em;
+    top: 4em;
+}
+
+.asdf{
+    color:coral;
+}
+
+.asd{
+    color:red
+}
+
+.jab{
+    color: purple;
+}
+
+#one{
+    color: darkblue;
+}
+
+#dos{
+    color: darkcyan;
+}
+#three{
+    color: darkgoldenrod;
+}
+
+#four{
+    color: darkgreen;
+}
+
+#five{
+    color: darkmagenta;
+}
+
+ol{
+    color: forestgreen;
+}
+
+.star{
+    color: hotpink;
+}
+
+#wars{
+    color: indigo;
+}
+
+.list{
+    border:2px solid black;
+
+}
